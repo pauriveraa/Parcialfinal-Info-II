@@ -61,6 +61,15 @@ private:
  Bola *esfera[3];
  Bola *b;
  cuadrado *obstaculo1;
+ cuadrado *obstaculo2;
+ cuadrado *obstaculo3;
+ cuadrado *obstaculo4;
+ cuadrado *obstaculo5;
+ cuadrado *obstaculo6;
+ cuadrado *obstaculo7;
+ cuadrado *obstaculo8;
+ cuadrado *obstaculo9;
+
    int contador=0;
 
     bool colision;

@@ -46,6 +46,7 @@ float ui;
     float vxX;
     float vyY;
     int contadorbola=0;
+    int bandera=0;
 
 
   bool colision=true;

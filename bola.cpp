@@ -77,12 +77,13 @@ void Bola::choque(int x0, int y0, int w, int h)
     if(y-r<=y0){
         vy*=-e;
         y=y0+r;
-
+        bandera=1;
 
     }
     if(y+r>=y0+h){
         vy*=-e;
         y=y0+h-r;
+
 
 
     }
